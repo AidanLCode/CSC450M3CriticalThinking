@@ -1,0 +1,3 @@
+/Users/cubbyevil/Documents/Aidan College/CSU/Courses/2024/Spring 2024/Term C/CSC450ProgrammingIII/Module 3/CSC450M3CriticalThinking/cmake-build-debug/CMakeFiles/CSC450M3CriticalThinking.dir
+/Users/cubbyevil/Documents/Aidan College/CSU/Courses/2024/Spring 2024/Term C/CSC450ProgrammingIII/Module 3/CSC450M3CriticalThinking/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cubbyevil/Documents/Aidan College/CSU/Courses/2024/Spring 2024/Term C/CSC450ProgrammingIII/Module 3/CSC450M3CriticalThinking/cmake-build-debug/CMakeFiles/rebuild_cache.dir
